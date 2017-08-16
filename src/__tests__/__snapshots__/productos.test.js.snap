@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`eliminar producto deberia eliminar un producto del arreglo 1`] = `
+Array [
+  "Manzana",
+  "Leche",
+]
+`;

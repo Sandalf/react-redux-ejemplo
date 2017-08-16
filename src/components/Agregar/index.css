@@ -1,0 +1,16 @@
+.Agregar {
+    display: flex;
+    flex-direction: row;
+}
+
+.Agregar button {
+    background: none;
+    border: none;
+    color: green;
+    display: flex;
+}
+
+.Agregar input {
+    border: none;
+    border-bottom: 1px solid #ddd;
+}

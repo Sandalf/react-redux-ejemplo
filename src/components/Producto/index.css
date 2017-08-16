@@ -1,0 +1,14 @@
+.Producto {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: .2em 0;
+}
+
+.Producto-remove {
+    cursor: pointer;
+}
+
+.Producto-remove:hover {
+    color: green;
+}

@@ -1,0 +1,11 @@
+.Mandado {
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    box-shadow: 0px 0px 12px #ccc;
+    align-self: center;
+}
+
+.Mandado-encabezado {
+    font-weight: 100;
+}

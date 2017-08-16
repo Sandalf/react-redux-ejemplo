@@ -1,0 +1,8 @@
+.ListaProductos {
+    display: flex;
+    padding: 1em 0;
+}
+
+.ListaProductos-lista {
+    width: 100%;
+}
